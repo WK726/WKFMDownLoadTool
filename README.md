@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WKDownLoad
 
 [![CI Status](https://img.shields.io/travis/wk726/WKDownLoad.svg?style=flat)](https://travis-ci.org/wk726/WKDownLoad)
@@ -21,14 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'WKDownLoad'
 ```
 
-## Author
 
-wk726, 15801277061@qq.com
-
-## License
-
-WKDownLoad is available under the MIT license. See the LICENSE file for more info.
-=======
 # WKFMDownLoad
 音频下载逻辑的封装
->>>>>>> f084441bf1c439a087bae7829450c80ab9bc4172
