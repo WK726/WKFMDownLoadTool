@@ -23,8 +23,14 @@ pod 'WKDownLoad'
 
 # WKFMDownLoad
 音频下载逻辑的封装
+
+
 用法：
+
+
 在vc中直接调用方法：
+
+
 -(void)downLoader:(NSURL *)url downLoadInfo:(downInfoType)downLoadInfo progress:(progressBlockType)progressBlock success:(successBlockType)successBlock failed:(failedBlockType)failedBlock;
 第一个参数：url音频地址
 第二个参数：下载信息的总大小
