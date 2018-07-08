@@ -1,0 +1,6 @@
+framework module WKDownLoad {
+  umbrella header "WKDownLoad-umbrella.h"
+
+  export *
+  module * { export * }
+}

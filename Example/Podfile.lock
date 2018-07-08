@@ -1,0 +1,16 @@
+PODS:
+  - WKDownLoad (0.1.0)
+
+DEPENDENCIES:
+  - WKDownLoad (from `../`)
+
+EXTERNAL SOURCES:
+  WKDownLoad:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKDownLoad: 35fc2a6ebb332eba90720286a8868542549ad890
+
+PODFILE CHECKSUM: 101708e32ef272adf6421eeb7a7de6567afaaea2
+
+COCOAPODS: 1.5.0

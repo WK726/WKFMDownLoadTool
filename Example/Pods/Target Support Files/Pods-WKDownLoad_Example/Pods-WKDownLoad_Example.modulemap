@@ -1,0 +1,6 @@
+framework module Pods_WKDownLoad_Example {
+  umbrella header "Pods-WKDownLoad_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
