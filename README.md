@@ -49,6 +49,3 @@ pod 'WKDownLoad'
 第四个参数：下载失败的处理
 
 
-
-
-/Users/wangkai/Desktop/屏幕快照 2018-07-08 下午1.17.10.png
