@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 '这是一个用于下载的文件'
                        DESC
 
-  s.homepage         = 'https://github.com/wk726/WKDownLoad'
+  s.homepage         = 'https://github.com/WK726/WKFMDownLoadTool.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wk726' => '15801277061@qq.com' }
-  s.source           = { :git => 'https://github.com/wk726/WKDownLoad.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/WK726/WKFMDownLoadTool.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
